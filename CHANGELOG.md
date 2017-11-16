@@ -4,6 +4,9 @@
 
 * Swhich hashing to MurmurHash (https://github.com/Unleash/unleash/issues/247)
 
+- Update API endoint paths for Unleash 3.x
+  (https://github.com/Unleash/unleash-client-node/issues/50)
+
 ## 2.3.0
 
 * Add support for custom headers
